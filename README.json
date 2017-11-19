@@ -1,0 +1,7 @@
+{
+ "name": "cluster",
+ "children": [
+      {"name": "pubProductCounts", "size": 72431859},
+      {"name": "pubOfferCounts_3P", "size": 86891316}
+ ]
+}
